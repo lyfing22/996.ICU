@@ -124,6 +124,6 @@
 |北京|[数美科技](https://www.ishumei.com/)|2019年4月8日|大小周，加班|[知乎](https://www.zhihu.com/question/290696102)|
 |北京|[快方送药](http://www.kfyao.com/)|已经施行一段时间了| 996 | [看准网](https://www.kanzhun.com/pl5675303.html) |
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996,9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
-
+|广州|[广州蓝鸽集团](http://www.chinalancoo.com)|2019年4月9日| 每月加班最低50小时，曾经一个月加班60小时被喝茶 |薪资50%需要加班和绩效才能获得,知乎爆料(https://www.zhihu.com/question/40782949) |
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
